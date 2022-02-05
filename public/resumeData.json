@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "EL Ayadi Abderrahim",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! my name is El Ayadi Abderrahim. I am a  Web Application Developer and Software Developer. I have a Master degree of Science in  computer networks and embedded system from Moulay Ismail University, faculty of Science Meknes, and my primary focus and inspiration for my studies is Web Development  and machine learning for robotics.I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
+    "email": "el.ayadiabdoo@gmail.com",
+    "phone": "+212 614047166",
+    "address": {
+      "street": "Meknes",
+      "city": "Meknes",
+      "state": "I am looking for new opportunities",
+      "zip": "50000"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1Y9c4AmQqCDw12K_ZDcSTXuGUdBi0vtVj/view?usp=sharing",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abderrahim-el-ayadi-876495162/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abderrahimel",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Moulay Ismail University - faculty of Science Meknes",
+        "degree": "BACHELOR OF FUNDAMENTAL STUDIES IN MATHEMATICAL AND COMPUTER SCIENCE",
+        "graduated": "July 2018"
+      },
+      {
+        "school": "Moulay Ismail University - faculty of Science Meknes",
+        "degree": "MASTER IN COMPUTER NETWORKS AND EMBEDDED SYSTEMS",
+        "graduated": "December  2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "project for my last year of graduation",
+        "title": "Robotics",
+        "years": " 2020  ",
+        "description": "DEVELOPED SOFTWARE FOR THE ROBOT NAO BY PYTHON"
+      },
+      {
+        "company": "personal project",
+        "title": "web developer",
+        "years": " 2021 - ...",
+        "description": "DEVELOPEMENT web APPLICATION"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "ROBOTICS DEVELOPER",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "Laravel",
+        "level": "99%"
+      },
+      {
+        "name": "MySql",
+        "level": "99%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "game video web site   (Angular)",
+        "category": "",
+        "image": "game-video.PNG",
+        "url": "https://fervent-pike-1e9c02.netlify.app/"
+      },
+      {
+        "title": "netflix web site   (React JS)",
+        "category": "",
+        "image": "netflix-image.PNG",
+        "url": "https://abderrahimel-netflix.netlify.app/"
+      },
+      {
+        "title": "disny clone  (React JS)",
+        "category": "",
+        "image": "disny-image.PNG",
+        "url": "https://disney-clone-d1e27.web.app/"
+      },
+      {
+        "title": "tesla clone  ",
+        "category": "",
+        "image": "tesla-image.PNG",
+        "url": "https://tesla-abderrahim.web.app/"
+      },
+      {
+        "title": "amazon clone  (React JS)",
+        "category": "",
+        "image": "amazon-image.PNG",
+        "url": "https://clone-git.web.app/"
+      },
+      {
+        "title": "instagram web site Laravel  (PHP)",
+        "category": "",
+        "image": "instagram-image.PNG",
+        "url": "http://abderrahimelaravel.herokuapp.com/"
+      },
+      {
+        "title": "test 1 mouvement autonomously",
+        "category": "",
+        "image": "test-movement1.PNG",
+        "url": "https://drive.google.com/file/d/12UnWaqT0rHGUwohlKhMw5Mlm9xzE8Uuz/view?usp=sharing"
+      },
+      {
+        "title": "test 2 mouvement autonomously",
+        "category": "",
+        "image": "test-movement2.PNG",
+        "url": "https://drive.google.com/file/d/1uwDsf2SrKupVqP1lcpOHrDEYhY3BD_lg/view?usp=sharing"
+      },
+      {
+        "title": "mouvement and communication",
+        "category": "",
+        "image": "mouvement-communication.PNG",
+        "url": "https://drive.google.com/file/d/1rx-8HHaBfJ4-MaDy0AKy1Zlru_WfkZk7/view"
+      },
+      {
+        "title": "orientation of studient to any salle of the environment",
+        "category": "",
+        "image": "orientation-studient-salle.PNG",
+        "url": "https://drive.google.com/file/d/1EODK-k6awpzDsJsXm3ig_keFJqbnsAHQ/view"
+      }
+    ]
+  }
+}
