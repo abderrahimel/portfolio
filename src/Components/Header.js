@@ -61,7 +61,7 @@ const Header = ({ data }) => {
             <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
           </h1>
           <h3>
-          I am a junior software developer/ web developer looking for new opportunities
+          I am a software enginner looking for new opportunity
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
