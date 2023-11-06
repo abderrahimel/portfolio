@@ -2,13 +2,13 @@
   "main": {
     "name": "EL Ayadi Abderrahim",
     "image": "profilepic.jpg",
-    "bio": "Hi there! my name is El Ayadi Abderrahim. I am a  Software Enginner. I have a Master degree of Science in  computer networks and embedded system from Moulay Ismail University, faculty of Science Meknes, and my primary focus and inspiration for my studies is Web Development  and machine learning for robotics.I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
+    "bio": "Hi there! my name is El Ayadi Abderrahim. I am a  Software Enginner. I have a Master degree of Science in  computer networks and embedded system from Moulay Ismail University, faculty of Science Meknes. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
     "email": "el.ayadiabdoo@gmail.com",
-    "phone": "+212 614047166",
+    "phone": "+212 612465575",
     "address": {
       "street": "Meknes",
       "city": "Meknes",
-      "state": "I am looking for new opportunities",
+      "state": "I am looking for new opportunity",
       "zip": "50000"
     },
     "resumedownload": "https://drive.google.com/file/d/1H9Vibg8X-ArMxwlI_R6lDGPFwj6z5kEl/view?usp=sharing",
@@ -56,6 +56,10 @@
     ],
     "skills": [
       {
+        "name": "NextJs",
+        "level": "100%"
+      },
+      {
         "name": "ReactJs",
         "level": "100%"
       },
@@ -85,6 +89,14 @@
       },
       {
         "name": "Laravel",
+        "level": "99%"
+      },
+      {
+        "name": "Tailwindcss",
+        "level": "99%"
+      },
+      {
+        "name": "Bootstrap",
         "level": "99%"
       },
       {
